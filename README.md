@@ -2,4 +2,4 @@
 
 コンテンツベースのレコメンデーションシステムで最も基礎的なコサイン類似度に基づいて映画のレコメンドをするノートブック。
 
-[01_Movie_Recommendation_using_Cosine_Similarity.ipynb](.\01_Movie_Recommendation_using_Cosine_Similarity.ipynb)
+[01_Movie_Recommendation_using_Cosine_Similarity.ipynb](01_Movie_Recommendation_using_Cosine_Similarity.ipynb)
